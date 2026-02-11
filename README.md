@@ -103,7 +103,7 @@ Visualize λ-closure expansion
 Analyze state transition graphs
 Gain hands-on experience with automata simulation
 Strengthen theoretical understanding through visualization
-🚀 Future Improvements
+**Future Improvements**
 Support for DFA simulation
 Step-by-step animation control
 Export trace visualization as image
